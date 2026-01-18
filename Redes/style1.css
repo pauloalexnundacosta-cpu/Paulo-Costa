@@ -18,5 +18,49 @@ h3{
           font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 .Corpo-texto{
-          margin-top: 15%;
+          margin-top: 13%;
+}
+
+.lan{
+          width: 300px;
+        
+}
+.man{
+          width: 355px;
+          margin-top: 1%;
+        
+         
+}
+.wan{
+          width: 324px;
+          margin-top: 1%;
+         
+        
+}
+.imagens p{
+          font-style: italic;
+          font-size: smaller;
+}
+
+.butao{
+          margin-top: 5%;
+          margin-bottom: 5%;
+          text-align: center;
+          
+}
+
+.cabo1{
+          width: 200px;
+          
+        
+}
+.cabo2{
+          width: 210px;
+          
+        
+}
+.cabo3{
+          width: 220px;
+          
+        
 }
